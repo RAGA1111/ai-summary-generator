@@ -1,8 +1,6 @@
 import streamlit as st
 import requests
 
-st.set_page_config(page_title="Local AI Notes Generator", page_icon="🧠")
-st.title("🧠 Local AI Notes Generator (Mistral - Offline)")
 
 user_input = st.text_area("📄 Paste your study notes here:")
 
