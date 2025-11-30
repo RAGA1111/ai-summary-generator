@@ -84,7 +84,7 @@ Artificial intelligence is transforming industries by introducing automation, im
 
 Output:
 
-AI improves industries through automation, accuracy, and powerful data insights.
+AI improves industries through automation, accuracy, and powerful data insights...
 
 🤝 Contributing
 
