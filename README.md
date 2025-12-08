@@ -15,17 +15,19 @@ API support (if backend included)
 Fast and lightweight
 
 📂 Project Structure
-ai-summary-generator/
-│
-├── frontend/        # UI (HTML/CSS/JS or React)
 
-├── backend/         # API (Python/Node.js)
+ai-summary-generator
 
-├── models/          # AI / NLP models
 
-├── assets/          # Images / icons
+├── frontend/          # UI (HTML/CSS/JS or React)
 
-└── README.md        # Documentation
+├── backend/           # API (Python/Node.js)
+
+├── models/            # AI / NLP models
+
+├── assets/            # Images / icons
+
+└── README.md          # Documentation
 
 🛠️ Tech Stack
 
