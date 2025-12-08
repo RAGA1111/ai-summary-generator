@@ -18,9 +18,13 @@ Fast and lightweight
 ai-summary-generator/
 │
 ├── frontend/        # UI (HTML/CSS/JS or React)
+
 ├── backend/         # API (Python/Node.js)
+
 ├── models/          # AI / NLP models
+
 ├── assets/          # Images / icons
+
 └── README.md        # Documentation
 
 🛠️ Tech Stack
