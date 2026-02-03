@@ -2,7 +2,7 @@
 ```md
 # 🧠 AI Summary Generator
 
-**AI Summary Generator** is a lightweight, AI-powered text summarization tool that converts long-form content—such as paragraphs, articles, or documents—into concise, readable summaries. It is designed for speed, accuracy, and clarity, making information consumption faster and more efficient.
+**AI Summary Generator** is a lightweight, AI-powered text summarization tool that converts long-form content—such as paragraphs, articles, or documents—into concise, readable summaries. It is designed for speed, accuracy, and clarity, making information consumption faster and also more efficient.
 
 ---
 
