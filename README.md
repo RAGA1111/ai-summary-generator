@@ -12,8 +12,7 @@
 - Supports **short, medium, and detailed** summary lengths  
 - Clean and simple user interface (if frontend is included)  
 - REST API support for programmatic access  
-- Fast, lightweight, and easy to deploy  
-
+- Fast, lightweight, and easy to deploy
 ---
 
 ## 📂 Project Structure
